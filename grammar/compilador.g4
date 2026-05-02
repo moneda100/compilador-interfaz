@@ -1,0 +1,4 @@
+grammar compilador;
+
+root : EOF ;
+
